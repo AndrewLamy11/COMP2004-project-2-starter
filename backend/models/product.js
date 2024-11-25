@@ -3,7 +3,7 @@ const { Schema } = mongoose;
 
 const productSchema = new Schema({
   id: String,
-  ProductName: {
+  productName: {
     type: String,
     required: true,
   },

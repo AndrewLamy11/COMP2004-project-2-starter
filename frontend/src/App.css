@@ -151,3 +151,11 @@ img {
   background-color: green;
   width: 50%;
 }
+
+.EditButton {
+  background-color: rgb(151, 161, 0);
+}
+
+.DeleteButton {
+  background-color: rgb(108, 0, 0);
+}
